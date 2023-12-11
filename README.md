@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bienvenido a mi repositorio!
+
+Hola! Mi nombre es Rodrigo Gastón Muñoz.
 
 <!--
 **RodriMunoz96/RodriMunoz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
