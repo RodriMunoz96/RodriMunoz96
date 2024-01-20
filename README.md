@@ -1,6 +1,6 @@
-### Bienvenido a mi repositorio!
+### Bienvenido a mi perfil de Github!
 
-Hola! Mi nombre es Rodrigo Gastón Muñoz.
+Hola! Mi nombre es Rodrigo Gastón Muñoz. Inicié en la programación mirando cursos gratuitos por youtube, aprendiendo lo más básico para entender qué significa "programar", hasta que me anoté en un bootcamp y aprendí varias tecnologías que me ayudaron a desarrollarme como full stack 
 
 <!--
 **RodriMunoz96/RodriMunoz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
