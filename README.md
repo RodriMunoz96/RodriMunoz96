@@ -17,6 +17,7 @@ De momento todo mi aprendizaje ha sido en Javascript y CSS, implementando las si
 - Sequelize
 - PostgreSQL
 - Git
+
 También utilizo Canva para el diseño de Mockups y la primera versión del diseño de una página.
 
 #### Cómo contactarme
