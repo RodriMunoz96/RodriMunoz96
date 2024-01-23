@@ -20,7 +20,7 @@ De momento todo mi aprendizaje ha sido en Javascript y CSS, implementando las si
 También utilizo Canva para el diseño de Mockups y la primera versión del diseño de una página.
 
 #### Cómo contactarme
-Con mucho gusto voy a responder cualquier mensaje que me envíes, ya sea por una duda o por darme una oportunidad de trabajar juntos!. Puedes contactarte conmigo a través de mi linkedin o email:
+Con mucho gusto voy a responder cualquier mensaje que me envíes, ya sea por una duda o por darme una oportunidad de trabajar juntos! Puedes contactarte conmigo a través de mi linkedin o email:
 
 - Email: rodrigo.gaston.munoz@gmail.com
 - [Linkedin](https://www.linkedin.com/in/rodrigo-muñoz-389825223/)
